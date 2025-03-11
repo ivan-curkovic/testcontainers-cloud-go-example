@@ -60,3 +60,4 @@ Manually copy the `.testcontainers.properties` file from your Windows home to yo
 
 ```sh
 cp /mnt/c/Users/your-user/.testcontainers.properties ~/
+```
